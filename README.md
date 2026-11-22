@@ -24,4 +24,4 @@
   
 </div>
 
-![Snake animation](https://github.com/samueltkda/samueltkda/blob/main/.github/workflows/main.yml)
+![Snake animation](https://github.com/samueltkda/samueltkda/blob/output/github-contribution-grid-snake.svg)
