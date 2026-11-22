@@ -1,4 +1,4 @@
-## Aoba!
+## Aoba! Eu sou o Samuel Takeda
 
 - 🔭 Atualmente trabalhando em: nada 😋
 - 🌱 Estudando: print('Hello World!')
